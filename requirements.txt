@@ -1,0 +1,28 @@
+# 核心依赖
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+pandas>=1.5.0
+openpyxl>=3.0.0
+playwright>=1.30.0
+
+# 反爬绕过（瑞数等JS挑战站点）
+undetected-chromedriver>=3.5.0
+selenium>=4.10.0
+
+# 数据库相关（新增）
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+python-dotenv>=1.0.0
+
+# 进度条（新增）
+tqdm>=4.65.0
+
+# Web 前端
+streamlit>=1.30.0
+flask>=2.3.0
+
+# 可选：代码质量工具
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0
