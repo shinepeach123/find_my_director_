@@ -38,6 +38,10 @@ streamlit run web/app.py
 
 - Python 3.8+
 
+## 免责声明
+
+本项目数据均为个人整理，仅供参考，不保证信息的准确性与时效性，请以各学校官网为准。
+
 ## 许可证
 
 MIT License
